@@ -35,7 +35,8 @@ public class HarryPotter {
 			System.out.println("Harry is visible");
 	}
 
-	void spyOnSnape() {
+	void spyOnSnape() 
+	{
 		System.out.println("Harry sees Professor Snape doing nefarious things.");
 	}
 
