@@ -5,10 +5,10 @@ public class Platypus {
 	public static void main(String[] args) {}
 		private String platypusName;
 				
-	    public Platypus(String name)
+	    public Platypus(String platypusName)
 	    {
 	    	
-	    	platypusName=name;
+	    	this.platypusName=platypusName;
 	    	
 	    }
 	    

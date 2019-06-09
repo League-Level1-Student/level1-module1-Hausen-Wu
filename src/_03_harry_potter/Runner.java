@@ -7,8 +7,10 @@ public class Runner {
 		// TODO Auto-generated method stub
 			HarryPotter a= new HarryPotter();
 			a.makeInvisible(true);
+			a.spyOnSnape();
+			a.makeInvisible(false);
+			a.castSpell("Stupefy");
 			
-
 	}
 
 }
